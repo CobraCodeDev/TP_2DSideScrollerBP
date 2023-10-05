@@ -18,3 +18,8 @@ Click on Code and then Download ZIP to download the template.
 
 After that follow the simple instructions in this document:
 https://docs.google.com/document/d/1VhYKdyyU42LH5tdueSkXBGg_IOoFlG0tqiea0vXc-6k/edit?usp=sharing
+
+## Art Assets
+Huge thanks to Ansimuz for putting out these art assets as Public Domain!
+
+https://ansimuz.itch.io/sunny-land-pixel-game-art
