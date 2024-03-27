@@ -18,7 +18,7 @@ Click on Code and then Download ZIP to download the template.
 ![image](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/fbb64928-0b9c-4eeb-ad91-5b8910173fff)
 
 After that follow the simple instructions in this document:
-https://docs.google.com/document/d/1VhYKdyyU42LH5tdueSkXBGg_IOoFlG0tqiea0vXc-6k/edit?usp=sharing
+https://cobracode.notion.site/How-to-install-an-Unreal-Engine-Template-b7fe36e8f9d142b2b02a4fc88600b0f9?pvs=4
 
 ## Art Assets
 Huge thanks to Ansimuz for putting out these art assets as Public Domain!
